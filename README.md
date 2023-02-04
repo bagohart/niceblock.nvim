@@ -1,0 +1,2 @@
+# niceblock.nvim
+bla
